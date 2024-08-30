@@ -1,0 +1,1 @@
+Repositorio para control de trabajo y avances del proyecto correspondiente al laboratorio de Sistemas Operativos 2 de la Carrera de Ingeniería en Ciencias y Sistemas del Centro Universitario de Oriente CUNORI.
