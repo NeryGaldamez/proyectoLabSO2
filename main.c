@@ -6,11 +6,11 @@
 #include <arpa/inet.h>
 #include <errno.h>
 #include "lib/server_functions.h"
+#include "lib/log.h"
 
 #define PORT 13
 
 int main(){
-
     int listenfd = srv_init(PORT);
     int connfd;
 
