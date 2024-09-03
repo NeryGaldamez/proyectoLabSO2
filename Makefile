@@ -4,3 +4,6 @@ all: main.o
 
 %.o: %.c $(dependencias)
 	gcc -o $@ $^
+
+clean:
+	rm -f *.o
