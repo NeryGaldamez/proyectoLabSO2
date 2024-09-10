@@ -1,0 +1,4 @@
+[2024-09-04 00:53:46] Evento/Error: Error code: 98. Error en bind.
+[2024-09-04 15:11:14] Evento/Error: Método no soportado: OPTIONS.
+[2024-09-04 15:13:08] Evento/Error: Método no soportado: POST.
+[2024-09-04 15:13:22] Evento/Error: Método no soportado: PUT.
