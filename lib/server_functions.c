@@ -5,8 +5,8 @@
 #include <errno.h>
 #include <arpa/inet.h>
 #include "server_functions.h"
+#include "server_handle_cli.h"
 #include "log.h"
-
 
 int srv_init(int puerto){
      
@@ -68,12 +68,13 @@ int srv_accept_client(int listenfd){
     while ( (connfd = accept(listenfd, (struct sockaddr*) &clientaddr, &clientaddrsize)) > 0 ) { //si no importa saber quien es el cliente, los ultimos dos parametros pueden ser null
                 
         //printf("Se obtuvo una conexión desde %s\n", inet_ntoa(clientaddr.sin_addr));
-
         char mensaje[256];
         snprintf(mensaje, sizeof(mensaje),"Se obtuvo una conexión desde %s", inet_ntoa(clientaddr.sin_addr));
         log_event("Conexión", mensaje);
 
-        close(connfd);        
+        //srv_handle_client(connfd);
+        
+        return connfd;      
     }
 
     if(connfd == -1 ) {
@@ -84,3 +85,4 @@ int srv_accept_client(int listenfd){
 
     return connfd;
 }
+

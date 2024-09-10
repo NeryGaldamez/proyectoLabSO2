@@ -1,0 +1,123 @@
+[2024-09-10 11:36:01] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-10 11:36:28] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-10 11:36:28] Evento/Solicitud GET: El cliente 127.0.0.1:43376 solicita /hola con el método GET.
+[2024-09-10 11:36:28] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-10 11:36:28] Evento/Solicitud GET: El cliente 127.0.0.1:43392 solicita /favicon.ico con el método GET.
+[2024-09-10 11:37:05] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:37:05] Evento/Solicitud GET: El cliente 192.168.0.6:60288 solicita /pepe con el método GET.
+[2024-09-10 11:37:05] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:37:05] Evento/Solicitud GET: El cliente 192.168.0.6:60289 solicita /favicon.ico con el método GET.
+[2024-09-10 11:37:05] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:37:19] Evento/Solicitud GET: El cliente 192.168.0.6:60290 solicita /pepe con el método GET.
+[2024-09-10 11:37:19] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-10 11:37:19] Evento/Solicitud GET: El cliente 127.0.0.1:35818 solicita /hola con el método GET.
+[2024-09-10 11:37:19] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-10 11:37:19] Evento/Solicitud GET: El cliente 127.0.0.1:35828 solicita /favicon.ico con el método GET.
+[2024-09-10 11:37:19] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:37:19] Evento/Solicitud GET: El cliente 192.168.0.6:60291 solicita /favicon.ico con el método GET.
+[2024-09-10 11:37:20] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:37:20] Evento/Solicitud GET: El cliente 192.168.0.6:60292 solicita /pepe con el método GET.
+[2024-09-10 11:37:20] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:37:20] Evento/Solicitud GET: El cliente 192.168.0.6:60293 solicita /favicon.ico con el método GET.
+[2024-09-10 11:37:22] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:37:22] Evento/Solicitud GET: El cliente 192.168.0.6:60294 solicita /juan con el método GET.
+[2024-09-10 11:37:22] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:37:23] Evento/Solicitud GET: El cliente 192.168.0.6:60295 solicita /favicon.ico con el método GET.
+[2024-09-10 11:37:23] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:37:29] Evento/Solicitud GET: El cliente 192.168.0.6:60296 solicita /juan con el método GET.
+[2024-09-10 11:37:29] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:37:29] Evento/Solicitud GET: El cliente 192.168.0.6:60297 solicita /favicon.ico con el método GET.
+[2024-09-10 11:37:31] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:37:31] Evento/Solicitud GET: El cliente 192.168.0.6:60298 solicita /juan con el método GET.
+[2024-09-10 11:37:31] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:37:31] Evento/Solicitud GET: El cliente 192.168.0.6:60299 solicita /favicon.ico con el método GET.
+[2024-09-10 11:37:33] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:37:33] Evento/Solicitud GET: El cliente 192.168.0.6:60300 solicita /juan con el método GET.
+[2024-09-10 11:37:33] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:37:33] Evento/Solicitud GET: El cliente 192.168.0.6:60301 solicita /favicon.ico con el método GET.
+[2024-09-10 11:37:38] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-10 11:37:38] Evento/Solicitud GET: El cliente 127.0.0.1:56804 solicita /hola con el método GET.
+[2024-09-10 11:37:38] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-10 11:37:39] Evento/Solicitud GET: El cliente 127.0.0.1:56818 solicita /favicon.ico con el método GET.
+[2024-09-10 11:39:02] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-10 11:39:06] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:39:06] Evento/Solicitud GET: El cliente 192.168.0.6:60331 solicita /juan con el método GET.
+[2024-09-10 11:39:06] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:39:06] Evento/Solicitud GET: El cliente 192.168.0.6:60332 solicita /favicon.ico con el método GET.
+[2024-09-10 11:39:13] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-10 11:39:13] Evento/Solicitud GET: El cliente 127.0.0.1:47356 solicita /hola con el método GET.
+[2024-09-10 11:39:13] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-10 11:39:13] Evento/Solicitud GET: El cliente 127.0.0.1:47364 solicita /favicon.ico con el método GET.
+[2024-09-10 11:39:20] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-10 11:39:20] Evento/Solicitud GET: El cliente 127.0.0.1:36306 solicita /jsjfsj con el método GET.
+[2024-09-10 11:39:20] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-10 11:39:21] Evento/Solicitud GET: El cliente 127.0.0.1:36318 solicita /favicon.ico con el método GET.
+[2024-09-10 11:39:26] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:39:26] Evento/Solicitud GET: El cliente 192.168.0.6:60338 solicita /juan con el método GET.
+[2024-09-10 11:39:26] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:39:26] Evento/Solicitud GET: El cliente 192.168.0.6:60339 solicita /favicon.ico con el método GET.
+[2024-09-10 11:47:20] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-10 11:47:23] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:47:23] Evento/Solicitud GET: El cliente 192.168.0.6:60623 solicita /juan con el método GET.
+[2024-09-10 11:47:23] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:47:23] Evento/Solicitud GET: El cliente 192.168.0.6:60624 solicita /favicon.ico con el método GET.
+[2024-09-10 11:47:58] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-10 11:48:00] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:48:00] Evento/Solicitud GET: El cliente 192.168.0.6:60640 solicita /juan con el método GET.
+[2024-09-10 11:48:00] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:48:00] Evento/Solicitud GET: El cliente 192.168.0.6:60641 solicita /favicon.ico con el método GET.
+[2024-09-10 11:48:26] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-10 11:48:29] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:48:29] Evento/Solicitud GET: El cliente 192.168.0.6:60649 solicita /juan con el método GET.
+[2024-09-10 11:48:29] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:48:29] Evento/Solicitud GET: El cliente 192.168.0.6:60650 solicita /favicon.ico con el método GET.
+[2024-09-10 11:49:07] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-10 11:49:09] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:49:09] Evento/Solicitud GET: El cliente 192.168.0.6:60655 solicita /juan con el método GET.
+[2024-09-10 11:49:09] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:49:09] Evento/Solicitud GET: El cliente 192.168.0.6:60656 solicita /favicon.ico con el método GET.
+[2024-09-10 11:52:50] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-10 11:52:53] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:52:53] Evento/Solicitud GET: El cliente 192.168.0.6:60859 solicita /juan con el método GET.
+[2024-09-10 11:52:53] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 11:52:53] Evento/Solicitud GET: El cliente 192.168.0.6:60860 solicita /favicon.ico con el método GET.
+[2024-09-10 12:03:51] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-10 12:03:55] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 12:03:55] Evento/Solicitud GET: El cliente 192.168.0.6:61042 solicita /juan con el método GET.
+[2024-09-10 12:03:55] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 12:03:55] Evento/Solicitud GET: El cliente 192.168.0.6:61043 solicita /favicon.ico con el método GET.
+[2024-09-10 12:04:42] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-10 12:04:45] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 12:04:45] Evento/Solicitud GET: El cliente 192.168.0.6:61050 solicita /juan con el método GET.
+[2024-09-10 12:04:45] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 12:04:45] Evento/Solicitud GET: El cliente 192.168.0.6:61051 solicita /favicon.ico con el método GET.
+[2024-09-10 12:11:07] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-10 12:11:11] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 12:11:11] Evento/Solicitud GET: El cliente 192.168.0.6:61117 solicita /juan con el método GET.
+[2024-09-10 12:11:11] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 12:11:12] Evento/Solicitud GET: El cliente 192.168.0.6:61118 solicita /juan con el método GET.
+[2024-09-10 12:11:12] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 12:11:12] Evento/Solicitud GET: El cliente 192.168.0.6:61119 solicita /juan con el método GET.
+[2024-09-10 12:11:16] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 12:11:16] Evento/Solicitud GET: El cliente 192.168.0.6:61120 solicita /juan con el método GET.
+[2024-09-10 12:11:16] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 12:11:21] Evento/Solicitud GET: El cliente 192.168.0.6:61121 solicita /juan con el método GET.
+[2024-09-10 12:11:21] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 12:11:21] Evento/Solicitud GET: El cliente 192.168.0.6:61122 solicita /juan con el método GET.
+[2024-09-10 12:11:21] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 12:11:21] Evento/Solicitud GET: El cliente 192.168.0.6:61126 solicita /juan con el método GET.
+[2024-09-10 12:11:21] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 12:11:21] Evento/Solicitud GET: El cliente 192.168.0.6:61127 solicita /juan con el método GET.
+[2024-09-10 12:11:21] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-10 12:11:21] Evento/Solicitud GET: El cliente 127.0.0.1:37240 solicita /jsjfsj con el método GET.
+[2024-09-10 12:11:21] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-10 12:11:22] Evento/Solicitud GET: El cliente 127.0.0.1:37256 solicita /jsjfsj con el método GET.
+[2024-09-10 12:11:22] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-10 12:11:22] Evento/Solicitud GET: El cliente 127.0.0.1:37270 solicita /jsjfsj con el método GET.
+[2024-09-10 12:11:27] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-10 12:11:27] Evento/Solicitud GET: El cliente 127.0.0.1:42734 solicita /jsjfsj con el método GET.
+[2024-09-10 12:11:27] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-10 12:12:33] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-10 12:12:33] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
+[2024-09-10 12:12:33] Evento/Solicitud GET: El cliente 192.168.0.6:61148 solicita /juan con el método GET.
+[2024-09-10 12:12:33] Evento/Conexión: Se obtuvo una conexión desde 192.168.0.6.
