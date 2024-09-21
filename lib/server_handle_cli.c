@@ -8,10 +8,17 @@
 #include "server_functions.h"
 #include "server_handle_cli.h"
 #include "log.h"
+#include "http_status_codes.h"
+#include "file_handler.h"
+#include <time.h>
+
 
 void srv_handle_client(int connfd){
     char request[LONG_BUFFER];
     http_req req;
+
+    HttpResponse response;
+
 
     bzero(request, sizeof(request));
     //se lee la solicitud y se guarda en request
@@ -32,14 +39,44 @@ void srv_handle_client(int connfd){
     //se envía la petición a la función parse_request
     req = parse_request(request);
 
-    // Verificar que el método recibido sea GET, si no es, se imprime el error y se hace su respectivo registro
+
+   //Verificar si el metodo que se recibe es GET, de lo contrario mostrar el mensaje de error correspondiente
     if (strcmp(req.method, "GET") != 0) {
+        response.codigo = 405; // Método no permitido
+        response.content_type = "text/html";
+        response.datos = "<html><body><h1>405 Method Not Allowed</h1></body></html>";
+
+        http_response(connfd, response.codigo, response.content_type, response.datos);
+
         char mensaje[256];
-        snprintf(mensaje, sizeof(mensaje), "Método no aceptado: %s, solo se aceptan solicitudes GET", req.method);
+        snprintf(mensaje, sizeof(mensaje), "Error 405, Method Not Allowed %s", req.method);
         log_error(mensaje);
+
         close(connfd);
         return;
     }
+
+    //si el metodo sí es GET
+    response.datos = get_file_contents(req.url, &response.codigo);
+
+    //si no se encontró el archivo, retornar "404 Not Found"
+    if (response.datos == NULL) {
+        response.codigo = 404; // Archivo no encontrado
+        response.content_type = "text/html";
+        response.datos = "<html><body><h1>404 Not Found</h1></body></html>";
+    } else {
+        //archivo encontrado, setear el tipo de contenido
+        response.content_type = "text/html";  // Esto se puede mejorar para identificar tipos de archivo (HTML, CSS, JS, etc.)
+    }
+
+    //enviar la respuesta HTTP al cliente
+    http_response(connfd, response.codigo, response.content_type, response.datos);
+
+    // Liberar la memoria del body si es necesario (si se asigna dinámicamente)
+    if (response.codigo != 404 && response.codigo == 200) {
+        free(response.datos);
+    }
+
 
     //se obtiene la dirección IP y el puerto del cliente que hizo la solicitud
     struct sockaddr_in client_addr;
@@ -98,3 +135,30 @@ http_req parse_request(const char *request){
     return req;
 }
 
+void http_response(int connfd, int code, const char *content_type, const char *body) {
+    char headers[LONG_BUFFER];
+    
+    time_t now;
+    struct tm *tm_info;
+    char date_buffer[30]; //buffer para guardar la fecha en el formato que el header pide
+
+    //obtener la fecha y hora actual
+    time(&now);
+    tm_info = gmtime(&now); //se usa gmtime para obtener la hora en formato GMT
+
+    //se formatea la fecha en el formato RFC 1123
+    strftime(date_buffer, sizeof(date_buffer), "%a, %d %b %Y %H:%M:%S GMT", tm_info);
+
+    snprintf(headers, sizeof(headers),
+        "HTTP/1.1 %d %s\r\n"
+        "Content-Type: %s\r\n"
+        "Content-Length: %zu\r\n"
+        "Server: ServidorLabSO2\r\n"
+        "Date: %s\r\n"
+        "Connection: close\r\n\r\n"
+        "%s",
+        code, get_http_status_message(code), content_type, strlen(body), date_buffer, body);
+    
+    send(connfd, headers, strlen(headers), 0);
+    //send(connfd, body, strlen(body), 0);
+}

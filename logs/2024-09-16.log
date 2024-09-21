@@ -1,0 +1,148 @@
+[2024-09-16 21:59:12] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 21:59:25] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 21:59:25] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 21:59:26] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 21:59:36] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 21:59:43] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:01:21] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:01:24] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:01:24] Evento/Solicitud GET: El cliente 127.0.0.1:57792 solicita /hola.html con el método GET.
+[2024-09-16 22:01:24] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:02:03] Evento/Solicitud GET: El cliente 127.0.0.1:57794 solicita /hola.html con el método GET.
+[2024-09-16 22:02:03] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:02:22] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:02:24] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:02:24] Evento/Solicitud GET: El cliente 127.0.0.1:40026 solicita /hola.html con el método GET.
+[2024-09-16 22:02:24] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:02:41] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:03:29] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:03:32] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:03:32] Evento/Solicitud GET: El cliente 127.0.0.1:54396 solicita /hola.html con el método GET.
+[2024-09-16 22:03:32] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:04:14] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:04:17] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:04:17] Evento/Solicitud GET: El cliente 127.0.0.1:42298 solicita /hola.html con el método GET.
+[2024-09-16 22:04:17] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:05:09] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:05:12] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:05:12] Evento/Solicitud GET: El cliente 127.0.0.1:50744 solicita /hola.html con el método GET.
+[2024-09-16 22:05:12] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:07:19] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:07:22] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:07:22] Evento/Solicitud GET: El cliente 127.0.0.1:36346 solicita /hola.html con el método GET.
+[2024-09-16 22:07:22] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:07:38] Evento/Solicitud GET: El cliente 127.0.0.1:36350 solicita / con el método GET.
+[2024-09-16 22:07:38] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:08:17] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:08:20] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:08:20] Evento/Solicitud GET: El cliente 127.0.0.1:38030 solicita / con el método GET.
+[2024-09-16 22:08:20] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:10:31] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:10:34] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:10:34] Evento/Solicitud GET: El cliente 127.0.0.1:59214 solicita / con el método GET.
+[2024-09-16 22:10:34] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:12:27] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:12:30] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:12:30] Evento/Solicitud GET: El cliente 127.0.0.1:57444 solicita / con el método GET.
+[2024-09-16 22:12:30] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:13:16] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:13:19] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:13:19] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:13:50] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:13:52] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:13:53] Evento/Solicitud GET: El cliente 127.0.0.1:58084 solicita / con el método GET.
+[2024-09-16 22:13:53] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:15:04] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:15:07] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:15:07] Evento/Solicitud GET: El cliente 127.0.0.1:40244 solicita / con el método GET.
+[2024-09-16 22:15:07] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:15:34] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:15:37] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:15:37] Evento/Solicitud GET: El cliente 127.0.0.1:36058 solicita / con el método GET.
+[2024-09-16 22:15:37] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:16:38] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:16:41] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:16:41] Evento/Solicitud GET: El cliente 127.0.0.1:35894 solicita / con el método GET.
+[2024-09-16 22:16:41] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:17:03] Evento/Solicitud GET: El cliente 127.0.0.1:35910 solicita /hola.html con el método GET.
+[2024-09-16 22:17:03] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:17:33] Evento/Solicitud GET: El cliente 127.0.0.1:43526 solicita /hola.html5 con el método GET.
+[2024-09-16 22:17:33] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:17:52] Evento/Solicitud GET: El cliente 127.0.0.1:43540 solicita /hola.html con el método GET.
+[2024-09-16 22:17:52] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:17:56] Evento/Solicitud GET: El cliente 127.0.0.1:46138 solicita /index.html con el método GET.
+[2024-09-16 22:17:56] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:18:02] Evento/Solicitud GET: El cliente 127.0.0.1:46152 solicita / con el método GET.
+[2024-09-16 22:18:02] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:18:05] Evento/Solicitud GET: El cliente 127.0.0.1:40230 solicita / con el método GET.
+[2024-09-16 22:18:05] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:18:42] Evento/Solicitud GET: El cliente 127.0.0.1:40242 solicita / con el método GET.
+[2024-09-16 22:18:42] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:20:59] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:21:02] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:21:02] Evento/Solicitud GET: El cliente 127.0.0.1:39668 solicita / con el método GET.
+[2024-09-16 22:21:02] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:21:26] Evento/Solicitud GET: El cliente 127.0.0.1:39676 solicita /hola.html con el método GET.
+[2024-09-16 22:21:26] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:22:49] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:22:52] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:22:52] Evento/Solicitud GET: El cliente 127.0.0.1:54308 solicita /hola.html con el método GET.
+[2024-09-16 22:22:52] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:24:28] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:24:34] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:24:34] Evento/Solicitud GET: El cliente 127.0.0.1:49644 solicita /hola.html con el método GET.
+[2024-09-16 22:24:34] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:26:20] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:26:23] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:26:23] Evento/Solicitud GET: El cliente 127.0.0.1:59448 solicita /hola.html con el método GET.
+[2024-09-16 22:26:23] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:26:33] Evento/Solicitud GET: El cliente 127.0.0.1:59462 solicita /hola. con el método GET.
+[2024-09-16 22:26:33] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:26:36] Evento/Solicitud GET: El cliente 127.0.0.1:52578 solicita / con el método GET.
+[2024-09-16 22:26:36] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:50:24] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:50:28] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:50:28] Evento/Solicitud GET: El cliente 127.0.0.1:35864 solicita / con el método GET.
+[2024-09-16 22:50:28] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:52:37] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:52:39] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:52:39] Evento/Solicitud GET: El cliente 127.0.0.1:44618 solicita / con el método GET.
+[2024-09-16 22:52:39] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:52:39] Evento/Solicitud GET: El cliente 127.0.0.1:44620 solicita / con el método GET.
+[2024-09-16 22:52:39] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:58:14] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:58:26] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:58:26] Evento/Solicitud GET: El cliente 127.0.0.1:41186 solicita /hola.html con el método GET.
+[2024-09-16 22:58:26] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:59:02] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 22:59:05] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 22:59:05] Evento/Solicitud GET: El cliente 127.0.0.1:46748 solicita /hola.html con el método GET.
+[2024-09-16 22:59:05] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 23:11:25] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 23:11:29] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 23:11:29] Evento/Solicitud GET: El cliente 127.0.0.1:35050 solicita /hola.html con el método GET.
+[2024-09-16 23:11:29] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 23:11:36] Evento/Solicitud GET: El cliente 127.0.0.1:35062 solicita / con el método GET.
+[2024-09-16 23:11:36] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 23:11:44] Evento/Solicitud GET: El cliente 127.0.0.1:43732 solicita /index.html con el método GET.
+[2024-09-16 23:11:44] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 23:16:56] Evento/Inicializado: Servidor inicializado en modo de escucha....
+[2024-09-16 23:19:13] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 23:19:13] Evento/Solicitud GET: El cliente 127.0.0.1:47226 solicita /ejemplo.html con el método GET.
+[2024-09-16 23:19:13] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 23:19:13] Evento/Solicitud GET: El cliente 127.0.0.1:47242 solicita /lucky.jpg con el método GET.
+[2024-09-16 23:20:55] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 23:20:55] Evento/Solicitud GET: El cliente 127.0.0.1:35826 solicita /ejemplo.html con el método GET.
+[2024-09-16 23:20:56] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 23:21:41] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 23:22:05] Evento/Solicitud GET: El cliente 127.0.0.1:51386 solicita /ejemplo.html con el método GET.
+[2024-09-16 23:22:05] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 23:22:15] Evento/Solicitud GET: El cliente 127.0.0.1:51400 solicita /ejemplo.html?name=adadd&email=hola%40fd.com&message=fsfs con el método GET.
+[2024-09-16 23:22:15] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 23:22:43] Evento/Solicitud GET: El cliente 127.0.0.1:55320 solicita /ejemplo.html con el método GET.
+[2024-09-16 23:22:43] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 23:24:01] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 23:24:01] Evento/Solicitud GET: El cliente 127.0.0.1:41974 solicita /ejemplo.html con el método GET.
+[2024-09-16 23:24:01] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
+[2024-09-16 23:24:11] Evento/Solicitud GET: El cliente 127.0.0.1:41980 solicita /ejemplo.html con el método GET.
+[2024-09-16 23:24:11] Evento/Conexión: Se obtuvo una conexión desde 127.0.0.1.
